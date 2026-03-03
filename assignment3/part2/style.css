@@ -31,7 +31,6 @@ main {
 
 header {
   border-bottom: 5px solid #aa6666;
-  text-align: center;
 }
 
 footer {
@@ -44,10 +43,14 @@ footer p {
 
 .h1 {
     font-size: 3em;
+    text-align: center;
+    letter-spacing: 3px;
 }
 
 .h2 {
     font-size: 2.2em;
+    margin-bottom: 0;
+    letter-spacing: 1px;
 }
 
 /* Child selector */
