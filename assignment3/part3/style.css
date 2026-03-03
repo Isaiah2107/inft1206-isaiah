@@ -22,9 +22,7 @@ img {
   max-width: 980px;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: 70% 30%;  
+.grid {  
   margin: 0 auto;
   max-width: 980px;
 }
